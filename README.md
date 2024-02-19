@@ -15,7 +15,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
-  <img src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3244252/nextjs-icon-md.png" height="30" alt="csharp logo"  />
+  <img src="https://th.bing.com/th/id/R.f7337d339216d05c1551688efb13a830?rik=m28qY9WE3BaKXQ&riu=http%3a%2f%2fpluspng.com%2fimg-png%2fnodejs-png-nodejs-icon-png-50-px-1600.png&ehk=XR9ktXGvw5svYVTEqemL7wSEUZL%2bihqTpYBLPSQn8GQ%3d&risl=&pid=ImgRaw&r=0" height="30" alt="node logo"  />
+  <img width="12" />
+  <img src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3244252/nextjs-icon-md.png" height="30" alt="nextjs logo"  />
 </div>
 
 ###
