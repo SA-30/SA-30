@@ -19,7 +19,7 @@
   <img width="12" />
   <img src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3244252/nextjs-icon-md.png" height="30" alt="nextjs logo"  />
   <img width="12" />
-  <img src="https://styles.redditmedia.com/t5_7tpn6r/styles/communityIcon_vw08a423ptxa1.png" height="30" alt="nextjs logo"  />
+  <img src="https://python.langchain.com/img/parrot-chainlink-icon.png" height="30" alt="nextjs logo"  />
 </div>
 
 ###
