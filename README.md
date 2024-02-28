@@ -16,6 +16,8 @@
   <img src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3244252/nextjs-icon-md.png" height="30" alt="nextjs logo"  />
   <img width="12" />
   <img src="https://api.nuget.org/v3-flatcontainer/langchain.sources.pdf/0.12.3-dev.91/icon" height="30" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://static-00.iconduck.com/assets.00/tensorflow-icon-955x1024-hd4xzbqj.png" height="30" alt="tensorflow logo"  />
 </div>
 
 ###
