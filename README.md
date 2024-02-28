@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Bhuwan Bhurtel and I'm a web developer, from nepal</h2>
+<h2 align="left">Hi 👋! My name is Bhuwan Bhurtel and I'm a web developer.</h2>
 
 ###
 
