@@ -17,7 +17,7 @@
   <img width="12" />
   <img src="https://api.nuget.org/v3-flatcontainer/langchain.sources.pdf/0.12.3-dev.91/icon" height="30" alt="nextjs logo"  />
   <img width="12" />
-  <img src="https://static-00.iconduck.com/assets.00/tensorflow-icon-955x1024-hd4xzbqj.png" height="30" alt="tensorflow logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/640px-PyTorch_logo_icon.svg.png" height="30" alt="pytorch logo"  />
 </div>
 
 ###
