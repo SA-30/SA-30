@@ -1,4 +1,5 @@
 <h2 align="left">Hi 👋! My name is Bhuwan Bhurtel and I'm a web developer.</h2>
+<h2 align="left">Currently working on GenAI field with LLMs, RAGs,RNNs etc.</h2>
 
 ###
 
