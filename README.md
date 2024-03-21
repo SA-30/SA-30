@@ -19,6 +19,8 @@
   <img src="https://api.nuget.org/v3-flatcontainer/langchain.sources.pdf/0.12.3-dev.91/icon" height="30" alt="nextjs logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/640px-PyTorch_logo_icon.svg.png" height="30" alt="pytorch logo"  />
+  <img width="12" />
+  <img src="https://w7.pngwing.com/pngs/627/244/png-transparent-docker-logo-logos-logos-and-brands-icon-thumbnail.png" height="30" alt="pytorch logo"  />
 </div>
 
 ###
