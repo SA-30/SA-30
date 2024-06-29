@@ -1,5 +1,4 @@
-<h2 align="left">Hi 👋! My name is Bhuwan Bhurtel and I'm a web developer.</h2>
-<h2 align="left">Currently working on Fullstack development.</h2>
+<h2 align="left">Hi 👋! My name is Bhuwan Bhurtel and I'm a Full Stack web developer.</h2>
 <h4 align="left">I ventured around GenAI field with LLMs, RAGs, RNNs etc. for a while and still doing it on side.</h4>
 
 ###
