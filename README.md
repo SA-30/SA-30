@@ -25,5 +25,5 @@
 
 ###
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/astrofic7)
 
-https://leetcode.card.workers.dev/astrofic7?theme=dark&font=source_code_pro&extension=null
