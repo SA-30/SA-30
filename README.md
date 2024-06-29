@@ -25,5 +25,6 @@
 
 ###
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/astrofic7)
+
+![](https://leetcard.jacoblin.cool/jacoblincool?theme=unicorn)
 
