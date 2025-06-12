@@ -21,6 +21,8 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/640px-PyTorch_logo_icon.svg.png" height="30" alt="pytorch logo"  />
   <img width="12" />
   <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" height="30" alt="docker logo"  />
+  <img witdh="12" />
+  <img src="https://iconduck.com/icons/101932/file-type-expo" heigth="30" alt="expo" />
 </div>
 
 ###
